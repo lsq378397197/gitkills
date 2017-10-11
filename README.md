@@ -1,4 +1,4 @@
 # gitkills
 Creating a new branch is quick&Simple:
 test
-this id dev branch f1
+this id dev f1 branch f1
